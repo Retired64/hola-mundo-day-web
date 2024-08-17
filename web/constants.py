@@ -1,12 +1,12 @@
-MOUREDEV_URL = "https://moure.dev"
-DISCORD_URL = "https://discord.gg/mouredev"
+MOUREDEV_URL = "https://retired64.github.io/coopdx-android/"
+DISCORD_URL = "https://discord.com/invite/thuhUH2WNX"
 TWITCH_URL = "https://twitch.tv/mouredev"
 YOUTUBE_URL = "https://youtube.com/@mouredev"
 NEWSLETTER_URL = "https://newsletter.moure.dev"
-REPO_URL = "https://github.com/mouredev/hola-mundo-day-web"
+REPO_URL = "https://github.com/retired64"
 COFFEE_URL = "https://www.buymeacoffee.com/mouredev"
-EVENT_URL = "https://discord.gg/mouredev?event=1219566564706226187"
-NETWORKING_URL = "https://discord.gg/mouredev?event=1234755155929468980"
+EVENT_URL = "https://discord.com/invite/thuhUH2WNX"
+NETWORKING_URL = "https://discord.com/invite/thuhUH2WNX"
 
 TALK_FORM_URL = "https://forms.gle/GhTbteDFG2rGkCYW7"
 WORKSHOP_FORM_URL = "https://forms.gle/kJRjW1kE7CusaNaR6"
@@ -17,4 +17,4 @@ REFLEX_TUTORIAL_URL = "https://github.com/mouredev/python-web"
 
 TICKETS_URL = "https://www.eventbrite.es/e/hola-mundo-day-2024-tickets-893625697517"
 
-GOOGLE_ANALYTICS_TAG = "G-XS3D45RKRS"
+GOOGLE_ANALYTICS_TAG = "G-MFQ0M7VTVX"
