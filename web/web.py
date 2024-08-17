@@ -69,9 +69,9 @@ gtag('config', '{constants.GOOGLE_ANALYTICS_TAG}');
     ],
 )
 
-title = "\"Hola Mundo\" day | 7 de mayo | La conferencia de programación de la comunidad para la comunidad"
-description = "Conferencia tecnológica sobre programación y desarrollo de software 100% online, gratis, para todos los niveles y donde la comunidad será la verdadera protagonista, ya que se encargará de llevar a cabo los diferentes eventos del día. Charlas, talleres, networking, sorteos y más..."
-preview = "https://holamundo.day/preview.jpg"
+title = "\"Retired64 Community\" Gaming | Development | Noticias y avances sobre desarrollo de páginas y entornos de bots."
+description = "Desarrollo de paginas web y entrenamiento de bots para WhatsApp, Discord, Telegram, y Paginas Web, automatización de negocios a escalaa de venta e informática...."
+preview = "https://cmbr.dev/preview.jpg"
 
 app.add_page(
     index,
